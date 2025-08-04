@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">سلام! من محمد رضایی هستم 👋</h1>
-<p align="center">مدرس و برنامه‌نویس ارشد بک‌اند | مدیر فنی سلامتکده طاها | مدرس آکادمی‌های کدنویسی</p>
+<p align="center">Senior backend developer </p>
 
 ---
 
@@ -38,8 +38,8 @@
 ### 📬 راه‌های ارتباطی
 
 - 🌍 [mohammad-rezaei.ir](https://mohammad-rezaei.ir)
-- ✉️ ایمیل: `your-email@example.com`
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile) *(اختیاری)*
+- ✉️ ایمیل: `rezaeibackend99@gmail.com`
+- 📸 [Instagram](https://instagram.com/rezaei_backend)
 
 ---
 
