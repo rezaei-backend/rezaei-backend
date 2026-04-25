@@ -69,10 +69,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaei-backend&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rezaei-backend&theme=radical&no-frame=true&row=1" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ### 🧪 What I'm Currently Learning
